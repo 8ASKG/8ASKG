@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @8ASKG
 - 👀 I’m interested in javascript & Python/Discord bot developing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Twitter: (@br1vf) OR Discord: (QPZ3#8267)
 
 <!---
